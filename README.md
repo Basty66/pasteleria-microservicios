@@ -4,7 +4,7 @@ Proyecto semestral de arquitectura de microservicios para la gestión integral d
 
 ## Integrantes
 
-- Solange Valladares
+- Cristian
 
 ## Microservicios implementados
 

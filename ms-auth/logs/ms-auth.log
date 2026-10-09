@@ -305,4 +305,4 @@ Caused by: java.net.ConnectException: Connection refused: getsockopt
 2026-05-19T09:04:05.995-04:00  INFO 7032 --- [ms-auth] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
 2026-05-19T09:04:05.995-04:00  INFO 7032 --- [ms-auth] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
 2026-05-19T09:04:06.000-04:00  INFO 7032 --- [ms-auth] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
-2026-05-19T09:04:06.084-04:00  INFO 7032 --- [ms-auth] [http-nio-8080-exec-2] c.p.ms_auth.controller.AuthController    : POST /api/auth/register — email: solange@gmail.com
+2026-05-19T09:04:06.084-04:00  INFO 7032 --- [ms-auth] [http-nio-8080-exec-2] c.p.ms_auth.controller.AuthController    : POST /api/auth/register — email: cristian@gmail.com
